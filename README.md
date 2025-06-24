@@ -1,1 +1,1 @@
-This is Git tutorial class
+This is Git tutorialS
